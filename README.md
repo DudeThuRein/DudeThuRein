@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DudeThuRein
+- 👋 Hi, I’m Thu Rein.
 - 🌱 I’m currently learning Web Development @MMSIT and Database with Base
 - 📫 Reach me @<a href="mailto:dudethurein@gmail.com?subject=Mail from Github">My Email</a>  
 
